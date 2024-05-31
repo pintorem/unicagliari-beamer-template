@@ -4,10 +4,14 @@ You can use this template directly from Overleaf Gallery, by directly clicking "
 
 ## Screenshots
 
-### Title page
+### First page
 
-![](screenshots/title_page.png)
+![](screenshots/first_page.png)
 
 ### Table of Contents
 
 ![](screenshots/table_of_contents.png)
+
+### Conclusions
+
+![](screenshots/conclusion.png)
