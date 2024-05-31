@@ -6,12 +6,12 @@ You can use this template directly from Overleaf Gallery, by directly clicking "
 
 ### First page
 
-![](screenshots/first_page.png)
+![](screenshots/first_page.PNG)
 
 ### Table of Contents
 
-![](screenshots/table_of_contents.png)
+![](screenshots/table_of_contents.PNG)
 
 ### Conclusions
 
-![](screenshots/conclusion.png)
+![](screenshots/conclusion.PNG)
